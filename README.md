@@ -30,8 +30,9 @@ HTTP сервер для поиска и предоставления инфор
 ```bash
 mkdir -p build && cd build
 cmake --build . --parallel
+
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lionid58/search_media.git
 cd search_media
